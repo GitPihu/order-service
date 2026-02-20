@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class OrderServiceController {
     @GetMapping("/msg")
     public String getMsg() {
-        return "Welcome Priyanka yadav";
+        return "Welcome Priyanka yadav laxmi";
     }
 
 
